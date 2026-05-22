@@ -1,0 +1,7 @@
+DATABASE_URL=postgresql+asyncpg://sim:sim@db:5432/schiphol_sim
+FR24_API_KEY=
+FR24_BASE_URL=https://fr24api.flightradar24.com/api
+SCHIPHOL_APP_ID=
+SCHIPHOL_APP_KEY=
+SCHIPHOL_BASE_URL=https://api.schiphol.nl/public-flights
+CORS_ORIGINS=http://localhost:5173
